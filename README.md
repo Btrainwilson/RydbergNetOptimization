@@ -1,1 +1,1 @@
-# RydbergNetOptimization
+# Rydberg Net Optimization
